@@ -119,3 +119,5 @@ top_10$tuition_no_dollar <- gsub(pattern = "\\$|\\,",replacement = "", top_10$Tu
 mean(as.numeric(top_10$tuition_no_dollar))
 
 #Average Tuition is USD 49895.2
+
+#test version control
